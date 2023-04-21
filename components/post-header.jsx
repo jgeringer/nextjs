@@ -1,5 +1,5 @@
 import React from 'react';
-import Avatar from './avatar'
+import { Avatar } from './avatar'
 import DateComponent from './date'
 import CoverImage from './cover-image'
 import PostTitle from './post-title'
